@@ -25,3 +25,5 @@ function prependKitten (name) {
   kittens = kittens.slice();
   return [(name),...kittens];
 }
+
+function 
